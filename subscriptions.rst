@@ -10,3 +10,4 @@ Subscriptions
    subscriptions/configuration
    subscriptions/sales_flow
    subscriptions/reporting
+   subscriptions/follow_up
